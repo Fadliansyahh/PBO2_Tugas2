@@ -14,3 +14,8 @@ NPM   : 2210010507
 3.Hasil konversi
 
 ![image](https://github.com/user-attachments/assets/37176fa6-d2ca-4253-8e99-b8c3ffab36d1)
+
+4.Ketika menekan tombol clear maka akan mengosongkan inputan 
+
+![image](https://github.com/user-attachments/assets/1de3027d-1493-48b5-b14e-d71304703a8e)
+
